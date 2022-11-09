@@ -1,0 +1,32 @@
+Criar um branch
+O Branch permite que você tenha diferentes versões de um repositório de uma só vez.
+
+Por padrão, seu repositório tem um branch chamado main que é considerado o branch definitivo. Você pode criar branches adicionais com base em main no repositório. Você pode usar branches para ter diferentes versões de um projeto de uma só vez. Isso é útil quando você deseja adicionar novas funcionalidades a um projeto sem alterar a principal fonte de código. O trabalho feito em diferentes branches não aparecerá no branch principal até que você faça o merge, que abordaremos mais tarde neste guia. Você pode usar branches para fazer experimentos e edições antes de fazer commit delas em main.
+
+Quando você cria um branch com base no branch main, você faz uma cópia ou um instantâneo de main como ele era naquele momento. Se outra pessoa fez alterações no branch main enquanto você estava trabalhando no seu branch, você pode efetuar pull dessas atualizações.
+
+Este diagrama mostra:
+
+O branch main
+Um novo branch chamado feature
+O percurso que o feature faz antes de ser mesclado em main
+diagrama do branch
+
+Você já salvou diferentes versões de um arquivo? Algo assim:
+
+story.txt
+story-edit.txt
+story-edit-reviewed.txt
+Os branches realizam objetivos semelhantes em repositórios de GitHub.
+
+Aqui no GitHub, nossos desenvolvedores, escritores e designers usam branches para manter as correções de bugs e o trabalho de recursos separados do nosso branch main (produção). Quando uma alteração fica pronta, eles mesclam o respectivo branch em main.
+
+Criar um branch
+Clique na guia Código do repositório hello-world.
+Clique na lista suspensa no início da lista de arquivos que indica principal.
+Menu Branch
+Digite um nome de branch, readme-edits, na caixa de texto.
+Clique em Criar branch: readme-edits com base no principal.
+Menu do branch
+
+Agora você tem dois branches, main e readme-edits. Neste momento, eles são exatamente os mesmos. Em seguida, você adicionará alterações ao novo branch.
