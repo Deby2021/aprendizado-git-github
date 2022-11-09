@@ -1,0 +1,11 @@
+GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Permite que você e outras pessoas trabalhem em conjunto em projetos de qualquer lugar.
+
+Este tutorial ensina os princípios básicos de GitHub como, por exemplo, repositórios, branches, commits e pull requests. Você criará seu próprio repositório Hello World e aprenderá o fluxo de trabalho de pull request de GitHub, uma maneira popular de criar e revisar o código.
+
+Neste guia de início rápido, você irá:
+
+Criar e usar um repositório
+Iniciar e gerenciar um novo branch
+Fazer alterações em um arquivo e enviá-los por push para GitHub como commits
+Abrir e realizar merge de um pull request
+Para concluir este tutorial, você precisa ter uma conta do GitHub e acesso à Internet. Você não precisa saber como programar, usar a linha de comando ou instalar o Git (o software de controle de versão no qual GitHub é criado). Caso tenha uma pergunta sobre uma das expressões usadas neste guia, vá até o glossário para saber mais sobre nossa terminologia.
