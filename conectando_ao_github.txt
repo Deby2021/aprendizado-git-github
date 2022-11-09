@@ -1,0 +1,16 @@
+Conexão por HTTPS (recomendada)
+Se você fizer a clonagem com HTTPS, poderá armazenar suas credenciais do GitHub em cache no Git usando um auxiliar de credencial. Para obter mais informações, confira "Clonagem com URLs HTTPS" e "Como armazenar suas credenciais do GitHub em cache no Git".
+
+Conexão por SSH
+Se você fizer a clonagem com o SSH, precisará gerar chaves SSH em cada computador usado para efetuar push ou pull do GitHub. Para obter mais informações, confira "Clonando com URLs SSH" e "Gerando uma chave SSH".
+
+Próximas etapas
+O Git e o GitHub já estão configurados. Agora você pode optar por criar um repositório onde possa colocar seus projetos. Salvar seu código em um repositório permite que você faça backup do código e compartilhe-o em todo o mundo.
+
+A criação de um repositório para seu projeto permite que você armazene código no GitHub. Isso fornece um backup do seu trabalho que você pode optar por compartilhar com outros desenvolvedores. Para obter mais informações, confira "Criar um repositório"..
+
+A bifurcação de um repositório permitirá que você faça alterações em outro repositório sem afetar o original. Para obter mais informações, confira "Criar um fork de um repositório".
+
+Cada repositório em GitHub pertence a uma pessoa ou organização. Você pode interagir com as pessoas, repositórios e organizações, conectando-se e seguindo-as em GitHub. Para obter mais informações, confira "Seja social".
+
+O GitHub tem uma ótima comunidade de suporte na qual você pode pedir ajuda e conversar com pessoas de todo o mundo. Participe da conversa na GitHub Community.
